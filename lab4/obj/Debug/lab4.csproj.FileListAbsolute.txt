@@ -1,0 +1,14 @@
+C:\PIU-homeworks\lab4\lab4\bin\Debug\lab4.exe.config
+C:\PIU-homeworks\lab4\lab4\bin\Debug\lab4.exe
+C:\PIU-homeworks\lab4\lab4\bin\Debug\lab4.pdb
+C:\PIU-homeworks\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\PIU-homeworks\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\PIU-homeworks\lab4\lab4\obj\Debug\lab4.exe
+C:\PIU-homeworks\lab4\lab4\obj\Debug\lab4.pdb
+C:\PIU-homeworks\lab4\bin\Debug\lab4.exe.config
+C:\PIU-homeworks\lab4\bin\Debug\lab4.exe
+C:\PIU-homeworks\lab4\bin\Debug\lab4.pdb
+C:\PIU-homeworks\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\PIU-homeworks\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\PIU-homeworks\lab4\obj\Debug\lab4.exe
+C:\PIU-homeworks\lab4\obj\Debug\lab4.pdb

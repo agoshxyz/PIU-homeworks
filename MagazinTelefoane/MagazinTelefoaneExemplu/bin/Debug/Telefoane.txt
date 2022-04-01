@@ -1,1 +1,0 @@
-1;Xiaomi 2;lorem ipsum;23;233;
